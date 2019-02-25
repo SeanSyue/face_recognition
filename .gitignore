@@ -65,3 +65,5 @@ target/
 .idea/
 
 Pipfile.lock
+
+lab/lab_cam_detection_results/*
